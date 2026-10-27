@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+chroma_db/
+data/raw_pdfs/*
+data/processed/*
+!data/raw_pdfs/.gitkeep
+!data/processed/.gitkeep
